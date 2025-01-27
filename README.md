@@ -1,1 +1,1 @@
-Desafio PetShop da cadeira Programação I.
+Projeto "PetShop" da cadeira "Programação I".
