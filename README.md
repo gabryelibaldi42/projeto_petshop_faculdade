@@ -1,1 +1,1 @@
-Projeto "PetShop" da cadeira "Programação I".
+Projeto desenvolvido na cadeira Programação I da faculdade.
