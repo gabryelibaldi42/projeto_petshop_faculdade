@@ -1,1 +1,1 @@
-Projeto desenvolvido na cadeira Programação I da faculdade.
+Projeto desenvolvido na cadeira "Programação I" da faculdade.
